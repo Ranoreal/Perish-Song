@@ -14,7 +14,7 @@ Download [Prism Launcher](https://prismlauncher.org/download/windows/) (Alternat
 
 Download [Java 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) (This specific version and up Required!!)
 
-Download the [Modpack Here](https://github.com/Ranoreal/Perish-Song/releases/tag/1)
+Download the [Modpack Here](https://github.com/Ranoreal/Perish-Song/releases/tag/2)
 
 
 ![AltariaPlush](https://nintendosoup.com/wp-content/uploads/2022/10/AltariaLifeSizeCover.jpg)
